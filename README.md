@@ -1,5 +1,4 @@
-
-  ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeRi%20Lee&fontColor=eeeeee&fontSize=90&fontAlign=62&fontAlignY=32&animation=fadeIn)
 
 <!--
 **leeyr0412/leeyr0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
