@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋
 
 <!--
 **leeyr0412/leeyr0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-🏅 Baekjoon Solved Rank 🏅
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412)](https://solved.ac/leeyr0412)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm)
+-->
+
+  <h2>🏅 Baekjoon Solved Rank 🏅</h2>
+<br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412)](https://solved.ac/leeyr0412" />
 
 
+</div>
