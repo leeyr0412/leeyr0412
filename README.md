@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+🏅 Baekjoon Solved Rank 🏅
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412)](https://solved.ac/leeyr0412)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyr0412&show_icons=true&theme=highcontrast)
+
+
