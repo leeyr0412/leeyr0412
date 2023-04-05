@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
   <h2>🏅 Baekjoon Solved Rank 🏅</h2>
-<br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412)](https://solved.ac/leeyr0412" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412" />
+  <img src="http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm" />
 
 
 </div>
