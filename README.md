@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <h3 align="center">🏅 Baekjoon Solved Rank 🏅</h3>
   <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412" />
-  <img src="http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm" />
+<!--   <img src="http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm" /> -->
 </p>
 
