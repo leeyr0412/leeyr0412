@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm)
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=leeyr0412&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
