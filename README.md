@@ -3,26 +3,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeyr0412&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyr0412&layout=compact)](https://github.com/leeyr0412/github-readme-stats)
-<!--
-**leeyr0412/leeyr0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- 트로피 -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=leeyr0412&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412)](https://solved.ac/leeyr0412)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm)
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=leeyr0412&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<!-- 스택 -->
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
@@ -49,10 +34,11 @@ Here are some ideas to get you started:
   
 </p>
 
-
+<!-- 백준 티어 -->
 <h3 align="center">🏅 Baekjoon Solved Rank 🏅</h3>
   <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyr0412" />
+    <!-- 백준 스트릭 -->
 <!--   <img src="http://mazandi.herokuapp.com/api?handle=leeyr0412&theme=warm" /> -->
 </p>
 
