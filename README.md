@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyr0412&layout=compact)](https://github.com/leeyr0412/github-readme-stats)
 
-<!-- 트로피 -->
+<!--  트로피 -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=leeyr0412&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- 스택 -->
